@@ -1,0 +1,18 @@
+button{
+    width: 200px;
+    padding: 13px 0;
+    border-radius: 20px;
+    border: none;
+background-color: black;
+color: antiquewhite;
+cursor: pointer;
+}
+body{
+    justify-content: center;
+    text-align: center;
+    
+}
+#error{
+    color: brown;
+}
+

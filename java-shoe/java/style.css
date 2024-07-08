@@ -1,0 +1,29 @@
+body{
+    display: block;
+    justify-content: center;
+    /* margin: auto; */
+    text-align: center;
+    align-items: center;
+    margin:500px 0;
+}
+button{
+    display: block;
+    margin: auto;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    /* background-color: darkred; */
+width: 200px;
+margin-top: 5px;
+margin-bottom: 5px;
+border-radius: 5px;
+cursor: pointer;
+}
+#increment-btn{
+    background-color: darkred;
+}
+#save-btn{
+    background-color: darkgreen;
+}
